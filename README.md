@@ -24,7 +24,7 @@ The notebooks are the completed IBM lab exercises, in the order they were done:
 | 6 | Interactive map | `lab_jupyter_launch_site_location.ipynb` | Maps launch sites and outcomes with Folium and measures distances to the coast, roads, railways and cities |
 | 7 | Dashboard | `spacex-dash-app.py` | Plotly Dash app with a site dropdown, a success pie chart and a payload-range scatter plot |
 | 8 | Machine learning | `SpaceX_Machine_Learning_Prediction_Part_5.ipynb` | Trains and tunes logistic regression, SVM, decision tree and KNN with 10-fold grid search, and compares them |
-| — | Presentation | `SpaceX_Capstone_Presentation.pdf` | Final report slides with methods, results and conclusions |
+
 
 ## Tools and libraries
 
