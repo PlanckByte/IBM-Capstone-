@@ -71,7 +71,7 @@ Then open http://127.0.0.1:8050 in a browser.
 
 ## Author
 
-Argyris Livieratos, physicist. Completed as part of the IBM Data Science Professional Certificate, November 2026.
+Argy (PlankBuyte). Completed as part of the IBM Data Science Professional Certificate, November 2026.
 
 ## Acknowledgements
 
